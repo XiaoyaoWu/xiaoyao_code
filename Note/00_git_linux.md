@@ -2,7 +2,7 @@
 
 2️⃣ 提交（commit）git commit -m "update"
 
-3️⃣ 推送到 GitHub git push origin main
+3️⃣ 推送到GitHub  git push origin main
 
 一、创建仓库：
     1.打开对应文件夹
